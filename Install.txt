@@ -1,0 +1,9 @@
+#Python官网:  https://www.python.org/
+
+#Python文档:  https://www.python.org/doc/
+
+
+#安装： 
+        1. Win+R调出命令行，输入cmd
+        2.输入     path=%path%;C:\Python    #C:\Python为Python安装目录
+        详细内容见：  http://www.runoob.com/python/python-install.html
