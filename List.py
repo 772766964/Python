@@ -32,3 +32,7 @@ list4=["Hello,"*5]  #输出结果为  ["Hello,Hello,Hello,Hello,Hello"]
 list4=["Hello,"]*5  #输出结果为  ["Hello","Hello","Hello","Hello","Hello"]
 "Hello" in list4    #输出结果为  True
 2 in list2          #输出结果为  True
+
+#如何在列表中添加元素呢？
+list2.append(5)
+list2 = [1,2,3,4,5] 
